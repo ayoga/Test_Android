@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.sch.smktelkom_mlg.haloapp.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="484dp"
+        android:layout_height="135dp"
+        android:text="Nama : Anjas Febri Prayoga \nTTL : Jember, 16 Februari 2001 \nUmur : 16 Tahun"
+        android:textSize="65px"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="315dp" />
+
+</android.support.constraint.ConstraintLayout>
